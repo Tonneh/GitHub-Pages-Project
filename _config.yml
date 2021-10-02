@@ -5,6 +5,5 @@ description: > # this means to ignore newlines until "baseurl:"
   Socials: 
 # social links
 github_username:  Tonneh # DO NOT include the @ character, or else the build will fail!
-[OP.GG](https://na.op.gg/summoner/userName=tony+and+willump)
 email: tonyle.1537@gmail.com
 show_excerpts: true # set to false to remove excerpts on the homepage
