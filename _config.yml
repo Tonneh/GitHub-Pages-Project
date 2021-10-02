@@ -3,9 +3,6 @@ author: Tony Le
 Email: tonyle.1537@gmail.com
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, my name is Tony. On my page, I talk about games, specifically League of Legends.
-  I'll also be adding projects I'm doing later on. 
-  For now, check out the About Me to learn more about me or the LOL Patch Notes page for my thoughts on changes. 
 # social links
 github_username:  Tonneh # DO NOT include the @ character, or else the build will fail!
 show_excerpts: true # set to false to remove excerpts on the homepage
